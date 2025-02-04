@@ -98,4 +98,5 @@
 .childWrapper__6e9f8:has(> svg:not(.favoriteIcon_dcc7a4)) {
 	background-image: url('https://cdn.discordapp.com/attachments/1064157637282889760/1072447339400282133/uta.gif?ex=67a2852a&is=67a133aa&hm=daf00bacc90358b64a302221dede108e7deb965e906c477d43662e725980c4c1&');
 	background-size: cover;
+	background-position: center;
 }
