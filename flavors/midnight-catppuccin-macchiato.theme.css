@@ -96,7 +96,7 @@
 
 /* catppuccin icon */
 .childWrapper__6e9f8:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background-image: url('https://cdn.discordapp.com/attachments/1064157637282889760/1336164967518306457/tifa2.jpg?ex=67a2d019&is=67a17e99&hm=9205b51481cd994dc21104cfe33b8648a168fb701955563af491bf1e65b00aa1&');
+	background-image: url('https://pbs.twimg.com/media/GiNdmGJakAA1SQQ?format=jpg&name=large');
 	background-size: cover;
-	background-position: center;
+	background-position: top;
 }
