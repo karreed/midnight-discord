@@ -78,7 +78,7 @@
 	/* direct messages moon icon */
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
-	--moon-icon: none; /* moon icon */
+	--moon-icon: block; /* moon icon */
 	--moon-icon-url: none; /* custom icon url */
 	--moon-icon-size: auto;
 
@@ -95,8 +95,9 @@
 }
 
 /* catppuccin icon */
-.childWrapper__6e9f8:has(> svg:not(.favoriteIcon_dcc7a4)) {
+/*.childWrapper__6e9f8:has(> svg:not(.favoriteIcon_dcc7a4)) {
 	background-image: url('https://pbs.twimg.com/media/GiNdmGJakAA1SQQ?format=jpg&name=large');
 	background-size: cover;
 	background-position: top;
+*/
 }
